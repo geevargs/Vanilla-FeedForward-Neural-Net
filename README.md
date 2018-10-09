@@ -39,9 +39,9 @@ It is stored in a 150x4 numpy.ndarray.
 4)Define size of the parameters.
 
 
-5)Implement Forward Proagation in which we initialise the sigmoid and tanh function.
+5)Implement Forward Propagation in which we initialise the sigmoid and tanh function.
 
-6)Implement Backward Progation and compute loss function.
+6)Implement Backward Propagation and compute loss function.
 
 
 
