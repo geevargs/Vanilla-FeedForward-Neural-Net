@@ -43,7 +43,6 @@ It is stored in a 150x4 numpy.ndarray.
 
 6)Implement Backward Progation.
 
-
 5) Compute the cost function
 
 
